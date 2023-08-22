@@ -1,0 +1,208 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.Book-store-home-page-container {
+    background-color: black;
+    height: 750px;
+    color: white;
+}
+
+.book-heading {
+    padding: 10px;
+    margin: 10px;
+}
+
+.book-page-apj-container {
+    background-color: #e6f6ff;
+    border-radius: 15px;
+    margin: 15px;
+}
+
+.book-apj-image {
+    height: 200px;
+}
+
+.wings-of-fire-description {
+    color: black;
+
+}
+
+.Read-now-button {
+    text-align: center;
+    background-color: blue;
+    color: white;
+    border-radius: 5px;
+    margin: 20px;
+    border-color: white;
+}
+
+.wings-of-fire-heading {
+    padding: 10px;
+    font-size: 20px;
+    font-weight: bold;
+
+}
+
+.wings-of-fire-para {
+    margin: 10px;
+}
+
+.wings-of-fire-author {
+    margin: 10px;
+}
+
+.recomended-heading {
+    font-size: 30px;
+    margin: 20px;
+}
+
+.chethan-bhagat-image {
+    height: 150px;
+    margin: 15px;
+}
+
+.chethan-heading {
+    font-size: 20px;
+    margin: 10px;
+}
+
+.author-place {
+    margin: 10px;
+    padding: 2px;
+}
+
+.author-name {
+    margin: 10px;
+}
+
+.read-now-bhagat {
+    text-align: center;
+    background-color: blue;
+    color: white;
+    border-radius: 5px;
+    margin: 10px;
+    border-color: black;
+
+}
+
+
+
+.harry-potter-image {
+    height: 150px;
+    margin: 15px;
+}
+
+.harry-heading {
+    font-size: 20px;
+    margin: 10px;
+}
+
+.harry-para {
+    margin: 10px;
+    padding: 2px;
+}
+
+.author-name {
+    margin: 10px;
+}
+
+.read-now-harry {
+    text-align: center;
+    background-color: blue;
+    color: white;
+    border-radius: 5px;
+    margin: 10px;
+    border-color: black;
+
+}
+
+
+
+
+
+.wings-of-fire-details-page-bg-container {
+    background-color: black;
+}
+
+.wings-of-fire-image {
+    height: 300px;
+    width: 200px;
+
+
+}
+
+.wings-of-fire-details-page {
+    color: white;
+    text-align: center;
+    padding: 24px;
+}
+
+.wings-back-button {
+    background-color: orange;
+    border-radius: 5px;
+}
+
+.wings-buy-now-button {
+    border-radius: 5px;
+    background-color: blue;
+    color: white;
+}
+
+
+
+.The-3-Mistakes-Of-MyLife-page-bg-container {
+    background-color: black;
+}
+
+.The-3-Mistakes-Of-MyLife-image {
+    height: 300px;
+    width: 200px;
+
+
+}
+
+.The-3-Mistakes-Of-MyLife-page {
+    color: white;
+    text-align: center;
+    padding: 24px;
+}
+
+.The-3-Mistakes-Of-MyLife-back-button {
+    background-color: orange;
+    border-radius: 5px;
+}
+
+.The-3-Mistakes-Of-MyLife-buy-now-button {
+    border-radius: 5px;
+    background-color: blue;
+    color: white;
+}
+
+
+
+.Harry-Potter-Book-Details-page-bg-container {
+    background-color: black;
+}
+
+.HarryPotter-image {
+    height: 300px;
+    width: 200px;
+
+
+}
+
+.Harry-Potter-Book-Details-page {
+    color: white;
+    text-align: center;
+    padding: 24px;
+}
+
+.Harry-Potter-Book-Details-back-button {
+    background-color: orange;
+    border-radius: 5px;
+}
+
+.Harry-Potter-Book-Details-buy-now-button {
+    border-radius: 5px;
+    background-color: blue;
+    color: white;
+}
